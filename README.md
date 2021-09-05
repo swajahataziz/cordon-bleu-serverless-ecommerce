@@ -1,5 +1,5 @@
-AWS Serverless Ecommerce Platform
-=================================
+Cordon Bleu Serverless Ecommerce
+================================
 
 The __Cordon Bleu Ecommerce Backend__ is our serverless backend for Cordon Bleu app. Functionalities are split across multiple micro-services that communicate either through asynchronous messages over [Amazon EventBridge](https://aws.amazon.com/eventbridge/) or over synchronous APIs.
 
